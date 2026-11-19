@@ -35,22 +35,27 @@ Aplikasi desktop sederhana untuk mengelola katalog produk, dibuat dengan **Java,
 ## Screenshot
 
 ### 1. Tampilan awal (database masih kosong)
-![Tampilan awal](screenshots/01-kosong.png)
+<img width="865" height="749" alt="01-kosong" src="https://github.com/user-attachments/assets/295c4ae9-92b1-4111-89c1-e1144cd4773e" />
+
 
 ### 2. Menambah produk
-![Tambah produk](screenshots/02-tambah-produk.png)
+<img width="856" height="741" alt="02-tambah-produk" src="https://github.com/user-attachments/assets/cda1ae06-20b8-425a-bd3f-8efaefab9ec0" />
+
 
 ### 3. Katalog dengan beberapa produk
-Setiap kartu produk memiliki tombol **Edit** dan **Hapus**.
+<img width="863" height="743" alt="03-katalog" src="https://github.com/user-attachments/assets/d0a8cd1e-c7ab-4e60-97f5-52e3a1bd9136" />
+
 
 ![Katalog](screenshots/03-katalog.png)
 
 ### 4. Edit produk
-Setelah **Simpan Perubahan**, data pada kartu ikut berubah (contoh: produk ID 1 diubah menjadi "ayam" Rp12000).
+<img width="857" height="738" alt="04-edit-produk" src="https://github.com/user-attachments/assets/6fcd3cf4-d2d7-4b20-9767-381bcc3a8e29" />
+
 
 ![Edit produk](screenshots/04-edit-produk.png)
 
 ### 5. Validasi input
 Jika harga kosong atau bukan angka bulat, muncul pesan kesalahan dan data tidak disimpan.
 
-![Validasi](screenshots/05-validasi.png)
+<img width="862" height="741" alt="05-validasi" src="https://github.com/user-attachments/assets/8e2c961b-86bd-4c1a-8c1a-5f1ee21de89d" />
+
